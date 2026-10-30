@@ -1,0 +1,1 @@
+HAMAREE self-contained Vercel website. Upload the index.html at the deployment root. All three perfume illustrations, CSS and JS are embedded, so no asset paths are required. Checkout remains a demo until backend and payment processing are configured.
